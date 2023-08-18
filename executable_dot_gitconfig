@@ -1,0 +1,9 @@
+[user]
+	name = Miguel Jara
+	email = 0miguel.jara15@gmail.com
+[pull]
+	rebase = false
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
